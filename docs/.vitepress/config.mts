@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/web-vitepress/'
+  base: '/web-vitepress/',
   title: "COMPANY NAME",
   description: "COMPANY DESCRIPTION",
   lang: 'ZH-CN',

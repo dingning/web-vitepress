@@ -30,7 +30,7 @@ export default defineConfig({
           items: [
             { text: 'Index', link: '/product/p1' },
             { text: 'One', link: '/product/p1' },
-            { text: 'Two', link: '/product/p2' }
+            { text: 'Two', link: '/product/p3' }
           ]
         }
       ],
@@ -38,9 +38,9 @@ export default defineConfig({
         {
           text: 'data Section',
           items: [
-            { text: 'Index', link: '/data/p1' },
-            { text: 'One', link: '/data/p1' },
-            { text: 'Two', link: '/data/p2' }
+            { text: 'Index', link: '/data/d1' },
+            { text: 'One', link: '/data/d1' },
+            { text: 'Two', link: '/data/d3' }
           ]
         }
       ],
